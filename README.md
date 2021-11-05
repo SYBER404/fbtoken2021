@@ -1,5 +1,6 @@
 # fbtoken2021
 Convert facebook cookie to token 2021
+# COMMAND
 ```
 pkg update && pkg upgrade
 pkg install python
