@@ -1,4 +1,3 @@
-Convert facebook cookie to token 2021
 # COMMAND
 ```
 pkg update && pkg upgrade
